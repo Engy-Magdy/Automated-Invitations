@@ -1,0 +1,10 @@
+Dear {name},
+
+
+You are invited to the  [Scientists Event]
+Join us to learn  , and show your research .
+
+We can't wait to see you there!
+
+Best regards,
+{signature}
